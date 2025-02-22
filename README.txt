@@ -8,3 +8,5 @@ sudo cp code /usr/local/bin/
 code README.txt
 
 Just it! 
+
+I known, with shell 2 lines is enough... but not is so fun... 
